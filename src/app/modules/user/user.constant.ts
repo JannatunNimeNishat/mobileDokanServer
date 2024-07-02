@@ -1,0 +1,6 @@
+export const USER_ROLE = {
+    SUPER_ADMIN:'SUPER_ADMIN',
+    BRANCH_MANAGER:'BRANCH_MANAGER',
+    SELLER:'SELLER'
+} as const;
+
